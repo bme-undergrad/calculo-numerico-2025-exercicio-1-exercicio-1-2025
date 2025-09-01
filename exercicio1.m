@@ -11,6 +11,8 @@ v = zeros(imax,1);
 v(1) = x0;             
 erro = zeros(imax,1);  
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 printf("Iteração | Aproximação     | Erro Relativo\n");
 printf("-------------------------------------------\n");
 
